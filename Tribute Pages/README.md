@@ -4,7 +4,7 @@ Here you can find different models and Inspirational designs of Tribute pages.
 
 - Tribute 1: A simple webpage as a tribute to Vincent Van Gogh.
 - Tribute 2: Nikola Tesla tribute page Model
-- Tribute 3: Soon ..
+- Tribute 3: Michael Jackson Tribute page Model with more pictures
 
 ## Images of Tribute Models
 
@@ -13,3 +13,5 @@ Here you can find different models and Inspirational designs of Tribute pages.
 - Tribute2
 
 ![N|Solid](https://github.com/Mqueen15/HTML-and-CSS-projects/blob/master/Tribute%20Pages/Tribute2.png?raw=true)
+- Tribute3
+![N|Solid](https://github.com/Mqueen15/HTML-and-CSS-projects/blob/master/Tribute%20Pages/Tribute3.png?raw=true)
