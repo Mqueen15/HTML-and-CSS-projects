@@ -5,6 +5,7 @@ Here you can find different models and Inspirational designs of Tribute pages.
 - Tribute 1: A simple webpage as a tribute to Vincent Van Gogh.
 - Tribute 2: Nikola Tesla tribute page Model
 - Tribute 3: Michael Jackson Tribute page Model with more pictures
+- Tribute 4: Oprah Winfrey Tribute page Modern Model
 
 ## Images of Tribute Models
 
