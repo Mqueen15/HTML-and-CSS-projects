@@ -15,3 +15,7 @@ Here you can find different models and Inspirational designs of Tribute pages.
 ![N|Solid](https://github.com/Mqueen15/HTML-and-CSS-projects/blob/master/Tribute%20Pages/Tribute2.png?raw=true)
 - Tribute3
 ![N|Solid](https://github.com/Mqueen15/HTML-and-CSS-projects/blob/master/Tribute%20Pages/Tribute3.png?raw=true)
+
+- Tribute4
+
+![N|Solid](https://github.com/Mqueen15/HTML-and-CSS-projects/blob/master/Tribute%20Pages/Tribute4.png?raw=true)
