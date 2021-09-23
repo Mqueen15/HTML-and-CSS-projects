@@ -1,0 +1,240 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  width: 100%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5)40%,rgba(0, 0, 0, 0.5)40%), url(art.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 109vh;
+}
+.navigationbar{
+  width: 1200px;
+  height: 75px;
+  margin: auto;
+  /*background-color: yellow;*/
+}
+.iconlogo{
+  width: 300px;
+  float: left;
+  height: 70px;
+  /*margin-left: -35px;*/
+}
+.logo{
+  /*color: #e6e6e6;*/
+  color: #b20000;
+  font-size: 35px;
+  font-family: arial;
+  float: left;
+  padding-top: 10px;
+  margin-left: -35px;
+}
+.menu{
+  width: 400px;
+  float: left;
+  /*background-color: white;*/
+  height: 70px;
+}
+ul{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul li{
+  list-style: none;
+  margin-left: 7px;
+  padding-left: 55px;
+  margin-top: 27px;
+  font-size: 14px;
+}
+ul li a{
+  text-decoration: none;
+  color: #f2f2f2;
+  font-family: arial;
+  font-weight: bold;
+  transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+  color: #b20000;
+}
+.search{
+  width: 330px;
+  float: left;
+  margin-left: 960px;
+  /*background-color: white;*/
+  margin-top: -70px;
+}
+.srch{
+  font-family: arial;
+  width: 200px;
+  height: 40px;
+  background: transparent;
+  border: 1px solid #b20000;
+  margin-top: 13px;
+  color: #f2f2f2;
+  border-right: none;
+  font-size: 16px;
+  float: left;
+  padding: 10px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.btn{
+  width: 100px;
+  height: 40px;
+  background: #b20000;
+  border: 2px solid #b20000;
+  margin-top: 13px;
+  color: #f2f2f2;
+  font-size: 16px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-family: arial;
+}
+.btn:focus{
+  outline: none;
+}
+.srch:focus{
+  outline: none;
+}
+.content{
+  width: 1200px;
+  height: auto;
+  margin-top: 75px;
+  margin-left: 50px;
+  color: #f2f2f2;
+  position: relative;
+/*  background-color: yellow;*/
+}
+.content .par{
+  padding-left: 20px;
+  padding-bottom: 25px;
+  font-family: arial;
+  letter-spacing: 1.2px;
+  line-height: 30px;
+}
+.content h1{
+  font-family: New Time Roman;
+  font-size: 50px;
+  padding-left: 20px;
+  margin-top: 8%;
+  letter-spacing: 2px;
+}
+.content .cn{
+  width: 160px;
+  height: 40px;
+  background: #b20000;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: .4s ease;
+}
+.content .cn a{
+  text-decoration: none;
+  color: black;
+  transition: .3s ease;
+}
+.cn:hover{
+  background-color: #f2f2f2;
+}
+.content span{
+  color: #b20000;
+  font-size: 60px;
+}
+.form{
+  width: 250px;
+  height: 380px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5)40%,rgba(0, 0, 0, 0.5)40%);
+  position: absolute;
+  top: -20px;
+  left: 870px;
+  border-radius: 10px;
+  padding: 25px;
+}
+.form h2{
+  width: 220px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #b20000;
+  font-size: 22px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  margin: 2px;
+  padding: 8px;
+}
+.form input{
+  width: 240px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #b20000;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  color: #f2f2f2;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  font-family: sans-serif;
+}
+.form input:focus{
+  outline: none;
+}
+::placeholder{
+  color: #f2f2f2;
+  font-family: arial;
+}
+.btnn{
+  width: 240px;
+  height: 40px;
+  border: none;
+  font-size: 18px;
+  margin-top: 30px;
+  background: #b20000;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: .4s ease;
+}
+.btnn:hover{
+  color: #b20000;
+  background: #f2f2f2;
+}
+.btnn a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.form .link{
+  font-family: arial;
+  text-align: center;
+  font-size: 17px;
+  padding-top: 20px;
+}
+.form .link a{
+  text-decoration: none;
+  text-align: center;
+  color: #b20000;
+}
+.lim{
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.icon a{
+  text-decoration: none;
+  color: #f2f2f2;
+}
+.icon ion-icon{
+  color: #f2f2f2;
+  font-size: 30px;
+  padding-left: 14px;
+  padding-top: 5px;
+  transition: .3s ease;
+}
+.icon ion-icon:hover{
+  color:  #b20000;
+}
